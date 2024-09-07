@@ -1,2 +1,2 @@
 # TDD-task
-TDD Task
+Use "ng test" command to run test in angular cli
